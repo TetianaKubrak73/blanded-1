@@ -3,7 +3,7 @@ import {
   StatisticText,
   StatisticCounter,
 } from './StatisticItem.styled';
-import { IconContext } from 'react-icons';
+// import { IconContext } from 'react-icons';
 
 export const StatisticItem = ({ title, total, Icon }) => {
   return (
